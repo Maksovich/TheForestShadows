@@ -2,6 +2,8 @@
 
 Мод позволяющий полностью отключать в игре все тени.
 
+Веб страничка: http://maksovich.ru/page/shadows-of-the-forest
+
 Как пользоваться:
 
 1. Поместить с заменой mainData либо globalgamemanagers для версии выше 0.73b в папку с игрой TheForest_Data.
