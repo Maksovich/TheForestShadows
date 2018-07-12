@@ -6,7 +6,7 @@
 
 #### Как пользоваться:
 
-1. Поместить с заменой *mainData* либо *globalgamemanagers* для версии выше 0.73b в папку с игрой TheForest_Data.
+1. Поместить с заменой *mainData* (Alpha) либо *globalgamemanagers* (Release) в папку с игрой TheForest_Data (x64) либо TheForest32_Data (x86) в зависимости от разрядности OS.
 
 2. В настройках игры тени выставить на минимум (Shadows → Ultra Low).
 
