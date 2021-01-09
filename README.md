@@ -2,8 +2,6 @@
 
 Мод позволяющий полностью отключать в игре все тени.
 
-Веб страничка: http://maksovich.ru/126
-
 #### Как пользоваться:
 
 1. Поместить с заменой *mainData* (Alpha) либо *globalgamemanagers* (Release) в папку с игрой TheForest_Data (x64) либо TheForest32_Data (x86) в зависимости от разрядности OS.
